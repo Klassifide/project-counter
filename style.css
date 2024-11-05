@@ -11,7 +11,7 @@ body {
   justify-content: center;
 }
 
-#addOneButton{    
+#incrementButton{    
     margin: 10px;
     border-radius: 50%;
     border-width: 10px;
