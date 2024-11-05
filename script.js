@@ -5,7 +5,7 @@ let count = 0;
 function add1() {
    count++;
    const word = count == 1 ? 'time' : 'times';
-   label.innerText = `clicked ${count} ${word}`;
+   label.innerText = `Clicked ${count} ${word}`;
 }
 
 counterButton.addEventListener('click', add1);
